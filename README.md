@@ -8,7 +8,7 @@ Contenido del curso:
 + Practica 2 (10/04/24): Crear primer proyecto en R y sincronizar con Github
   
 
-  ###Laboratorios
+  ### Laboratorios
 
   
-  ###Tareas
+  ### Tareas
