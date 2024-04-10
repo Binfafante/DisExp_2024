@@ -6,7 +6,7 @@ Contenido del curso:
 
 + Practica 1 (08/04/24): Crear cuenta de Github
 + Practica 2 (10/04/24): Crear primer proyecto en R y sincronizar con Github
-  
++ Sincronizar con Github en la nube.
 
   ### Laboratorios
 
