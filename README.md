@@ -19,5 +19,5 @@ Contenido del curso:
     Laboratorio 01
 
     ### Tareas
-### grafica cotribuciones
+### Grafica cotribuciones
 ![image](https://github.com/Binfafante/DisExp_2024/assets/166416198/ff499b7b-221d-4e86-8f7e-6cf85851f102)
