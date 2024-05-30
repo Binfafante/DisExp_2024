@@ -31,4 +31,3 @@ boxplot(cr$altura, col = "green",
 hist(cr$altura)
 
 stem(cr$altura)
- Se llama tallo y hojas se le el numero y a un lado cuantas veces se repite un valor 
